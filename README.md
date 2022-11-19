@@ -1,4 +1,4 @@
-## Primeiramente salve a imagem na pasta raiz "remove-py" como "img.png"
+## Primeiramente salve a imagem na pasta raiz "removebg-py" como "img.png"
 
 ## Para converter basta abrir o arquivo 'remove.py' e rodar o coderunner "simbolo de start no canto superior direito" ou usando o "CTRL + ALT + N":
 
